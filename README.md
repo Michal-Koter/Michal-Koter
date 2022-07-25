@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Michal-Koter
 - 👀 I’m interested in back-end and mobile technologies
-- 🌱 I’m currently learning PHP and Java
+- 🌱 I’m currently learning Java and Dart
 - 📫 You can reach me on linkedin: bit.ly/3L48Hnm or privat e-mail: kotermichal@outlook.com
