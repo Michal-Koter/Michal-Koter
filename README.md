@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Michal-Koter
 - 👀 I’m interested in back-end and mobile technologies
 - 🌱 I’m currently learning Java
-- 📫 You can reach me on linkedin: bit.ly/3L48Hnm or privat e-mail: kotermichal@outlook.com
+- 📫 You can reach me on linkedin: [linkedin.com/in/michal-koter/](https://www.linkedin.com/in/michal-koter/) or privat e-mail: kotermichal@outlook.com
