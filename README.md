@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Michal-Koter
 - 👀 I’m interested in back-end and AI technologies
-- 🌱 I’m currently learning Java with Spring Boot and Python with TensorFlow/PyTorch
+- 🌱 I’m currently learning Python with PyTorch and Flask
 - 📫 You can reach me on linkedin: [linkedin.com/in/michal-koter/](https://www.linkedin.com/in/michal-koter/) or privat e-mail: kotermichal@outlook.com
